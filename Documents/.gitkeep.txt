@@ -1,0 +1,5 @@
+For my project I have chosen to use DigitalOcean to base my cloud server on.
+
+The steps that i took to do this include:
+
+1. Creating a digital ocean account
