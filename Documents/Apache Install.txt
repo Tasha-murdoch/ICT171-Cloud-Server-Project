@@ -1,0 +1,8 @@
+Commands used:
+
+apt update && apt upgrade -y
+apt install apache2 -y
+
+## Verification
+- Apache service running
+- Default page visible at server IP
