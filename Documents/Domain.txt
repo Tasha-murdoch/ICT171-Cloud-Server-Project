@@ -1,0 +1,6 @@
+- Purchased domain from Namecheap
+- Created A record
+- Pointed domain to server IP
+
+## Result
+Domain successfully resolves to server
