@@ -1,0 +1,7 @@
+#!/bin/bash
+
+DATE=$(date +%F)
+
+tar -czf /root/backup-$DATE.tar.gz /var/www/html
+
+echo "Backup completed successfully"
