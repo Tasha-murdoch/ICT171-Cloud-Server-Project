@@ -10,4 +10,7 @@ Public IPv4 Address: 134.199.147.18
 Repository: 
 
 Documents - Documents how to create a cloud-based server separated into different steps. 
-Scripts 
+
+Scripts - Shows how to automate administrative tasks.
+
+My video link - 
