@@ -1,9 +1,6 @@
-Server Maintenance Script
-Purpose
+This script automates several common server administration tasks for my project.
 
-This script automates several common server administration tasks for the ICT171 cloud server project.
-
-The script was created to reduce the amount of manual maintenance required on the Ubuntu server hosting the WordPress website.
+The script was created to reduce the amount of manual maintenance required on the Ubuntu server which is hosting the WordPress website.
 
 Features
 
@@ -13,27 +10,30 @@ Updates Ubuntu packages
 Checks Apache server status
 Displays disk usage information
 Displays memory usage information
-Creates a compressed backup of the WordPress files
-Creates a MySQL database backup
-How to Run
 
-Make the script executable:
+
+
+To make the script work your first must make the script executable:
+
 
 chmod +x server-maintenance.sh
 
-Run the script:
+
+The you can run the script:
 
 ./server-maintenance.sh
 Output
 
-The script produces:
+
+The this then produces:
 
 Terminal output showing system information
 Timestamped backup files
 MySQL database export files
 Future Improvements
 
-Future improvements may include:
+
+Future improvements of this script may include:
 
 Automatic cloud backup uploads
 Email notifications
