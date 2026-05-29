@@ -1,3 +1,5 @@
+
+
 ICT 171 CLOUD SERVER PROJECT
 
 Natasha Staines Student ID: 35578189
@@ -13,4 +15,5 @@ Documents - Documents how to create a cloud-based server separated into differen
 
 Scripts - Shows how to automate administrative tasks.
 
-My video link - 
+My video link - https://youtu.be/d6LyH3C1F2c
+
